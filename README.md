@@ -8,3 +8,11 @@
 |  CH340 connect to Mega2560 COM3 connect to ESP8266 | ON | ON | ON | ON | OFF | OFF | OFF | OFF |
 |  Mega2560+ESP8266                            | ON | ON | OFF | OFF | OFF | OFF | OFF | OFF |
 |  All modules work independent                | OFF | OFF | OFF | OFF | OFF | OFF | OFF | OFF |
+
+![image](https://github.com/LilyGO/Mega-WiFi_R3_ATmega2560_ESP8266/blob/master/image/image1.jpg)
+
+![image](https://github.com/LilyGO/Mega-WiFi_R3_ATmega2560_ESP8266/blob/master/image/image2.jpg)
+
+![image](https://github.com/LilyGO/Mega-WiFi_R3_ATmega2560_ESP8266/blob/master/image/image3.jpg)
+
+![image](https://github.com/LilyGO/Mega-WiFi_R3_ATmega2560_ESP8266/blob/master/image/image4.jpg)
